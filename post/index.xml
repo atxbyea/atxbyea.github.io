@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on atxbyeas rantings and ravings</title>
+    <link>https://atxbyea.github.io/post/</link>
+    <description>Recent content in Posts on atxbyeas rantings and ravings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2024 18:56:37 +0100</lastBuildDate>
+    <atom:link href="https://atxbyea.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>https://atxbyea.github.io/post/helloworld/</link>
+      <pubDate>Fri, 09 Feb 2024 18:56:37 +0100</pubDate>
+      <guid>https://atxbyea.github.io/post/helloworld/</guid>
+      <description>I thought it was about time to start documenting my escapades and musings
+So welcome to this nonsense
+I&amp;rsquo;ve recently started with 100 days of python, and I&amp;rsquo;ve delved into the world of terraform and ansible , before you know it I&amp;rsquo;ll be a devsecopscioceoctoafglhf
+I&amp;rsquo;ll try to keep it mostly human readable, and hopefully somewhat relatable and useful.</description>
+    </item>
+  </channel>
+</rss>
